@@ -7,4 +7,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waspydev&show_icons=true&locale=en&layout=compact&bg_color=1F222E" alt="waspydev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waspydev&show_icons=true&locale=en&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="waspydev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waspydev&show_icons=true&locale=en&bg_color=1F222E&title_color=468f57&icon_color=F8D866" alt="waspydev" /></p>
