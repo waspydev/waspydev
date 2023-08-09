@@ -12,7 +12,8 @@
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </p>
 
 <h3 align="left">💻 Operating systems:</h3>
@@ -22,7 +23,6 @@
 </p>
 
 <p>ㅤ</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=waspydev&show_icons=true&locale=en&theme=tokyonight" alt="waspydev" /></p>
 
