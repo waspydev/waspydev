@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WaspDev</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">Python Lover</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
