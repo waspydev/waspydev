@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm WaspDev</h1>
-<h3 align="center">Python Lover</h3>
+<h1 align="center">Python Lover ❤️</h1>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
@@ -23,9 +23,7 @@
 
 <p>ㅤ</p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=waspydev&show_icons=true&locale=en&theme=tokyonight" alt="waspydev" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waspydev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="waspydev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waspydev&show_icons=true&locale=en&theme=tokyonight" alt="waspydev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waspydev&&theme=tokyonight" alt="waspydev" /></p>
-
