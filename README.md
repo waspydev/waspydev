@@ -14,6 +14,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/Flask-1c6e0a?style=for-the-badge&logo=flask&logoColor=white"alt="flask"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </p>
 
