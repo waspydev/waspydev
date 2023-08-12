@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img src="https://img.shields.io/badge/Flask-1c6e0a?style=for-the-badge&logo=flask&logoColor=white"alt="flask"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/Shell_Script-30302f?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="git"/>
 </p>
 
 <h3 align="left">💻 Operating Systems:</h3>
